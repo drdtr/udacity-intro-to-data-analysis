@@ -1,2 +1,16 @@
 # udacity-intro-to-data-analysis
-Examples and solutions for Udacity nanodegree program 'Intro to Data Analysis'
+Examples and solutions for Udacity course 
+[Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170).
+
+## Copyright notice
+
+This project was created by David Trachtenherz within the scope of the Udacity course
+[Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170), 
+and in parts submitted to Udacity.
+It is published under the [MIT License](https://opensource.org/licenses/MIT) so you may use it at your discretion. 
+Yet, please remember that copying it or its parts to an own solution, which you submit to Udacity, 
+would violate the [Udacity Honor Code](https://www.udacity.com/legal/en-eu/honor-code).
+
+```
+Copyright (c) 2020 David Trachtenherz
+```
