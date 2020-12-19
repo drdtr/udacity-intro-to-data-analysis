@@ -2,6 +2,12 @@
 Examples and solutions for Udacity course 
 [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170).
 
+
+- Lesson 1: Data Analysis Process
+
+NOTE: This repo does not include resources (esp. CSV files) 
+and supporting materials (e.g. `L1_Starter_Code.ipynb` file) provided with the course. 
+ 
 ## Copyright notice
 
 This project was created by David Trachtenherz within the scope of the Udacity course
