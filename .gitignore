@@ -2,5 +2,5 @@
 /.idea/
 **/*.iml
 /supporting_materials/
-/resources/*.csv
+/resources/**/*.csv
 /lessons/.ipynb_checkpoints/
