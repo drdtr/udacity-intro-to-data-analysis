@@ -4,6 +4,7 @@ Examples and solutions for Udacity course
 
 
 - Lesson 1: Data Analysis Process
+- Lesson 2: Numpy and Pandas for 1D Data
 
 NOTE: This repo does not include resources (esp. CSV files) 
 and supporting materials (e.g. `L1_Starter_Code.ipynb` file) provided by Udacity for this course. 
